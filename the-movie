@@ -70,7 +70,7 @@
         </div>
     </div>
    <div class="tabs">
-    <div><a href="./index" style="display: block; width: 100%; height: 100%;">Home</a></div>
+    <div><a href="./index" style="display: block; width: 100%; height: 100%; color: red;">Home</a></div>
     <div><a href="./facts" style="display: block; width: 100%; height: 100%;">Facts</a></div>
     <div><a href="./the-movie" style="display: block; width: 100%; height: 100%;">The Movie</a></div>
 </div>
